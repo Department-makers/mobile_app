@@ -8,7 +8,7 @@ import com.example.kafedra.presentation.auth.RegistrationFragment
 
 object FragmentActions {
     @JvmStatic
-    fun openFragment(manager: FragmentManager, fragment: Fragment, tag: String, putAnim: Boolean = false) {
+    fun openFragment(manager: FragmentManager, fragment: Fragment, tag: String) {
         manager.beginTransaction()
             .setCustomAnimations(
                 R.anim.slide_in,
