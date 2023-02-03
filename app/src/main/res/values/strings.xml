@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Кафедра</string>
+    <string name="reg_auth_title">Многофункциональный портал вашей Кафедры</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="sign_in">Войти</string>
+
+    <string name="first_name">Имя</string>
+    <string name="second_name">Фамилия</string>
+    <string name="role">Роль</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+
+    <string name="enter_first_name">Введите имя</string>
+    <string name="enter_second_name">Введите фамилию</string>
+    <string name="enter_role">Выберете роль</string>
+    <string name="enter_email">Введите почту</string>
+    <string name="create_password">Придумайте пароль</string>
+    <string name="enter_password">Введите пароль</string>
+
+    <string name="done">Готово</string>
+    <string name="cancel">Отменить</string>
+    <string name="go_back">Вернуться</string>
+</resources>
