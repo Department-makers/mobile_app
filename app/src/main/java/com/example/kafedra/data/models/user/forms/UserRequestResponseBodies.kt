@@ -19,7 +19,6 @@ class UserRequestResponseBodies {
     )
 
     data class UserSignInRequest(
-        val auth: String,
         val email: String,
         val password: String,
     )
@@ -37,7 +36,6 @@ class UserRequestResponseBodies {
 
 
     data class UserInfoRequest(
-        val auth: String,
         val user_id: Long
     )
 
