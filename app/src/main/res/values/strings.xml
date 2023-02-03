@@ -20,4 +20,12 @@
     <string name="done">Готово</string>
     <string name="cancel">Отменить</string>
     <string name="go_back">Вернуться</string>
+
+    <string name="discipline">Дисциплина</string>
+    <string name="disciplines">Дисциплины</string>
+    <string name="teacher">Преподаватель</string>
+
+    <string name="user">Профиль</string>
+
+
 </resources>

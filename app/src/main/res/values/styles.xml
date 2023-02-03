@@ -27,7 +27,7 @@
     </style>
 
     <style name="textSmallInfo" parent="android:Theme">
-        <item name="android:textViewStyle">@style/theme</item>
+<!--        <item name="android:textViewStyle">@style/theme</item>-->
         <item name="android:textSize">14sp</item>
         <item name="android:textColor">@color/black_83</item>
     </style>
