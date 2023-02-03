@@ -8,7 +8,7 @@
     tools:context=".presentation.auth.RegistrationFragment">
 
     <TextView
-        android:id="@+id/reg_title"
+        android:id="@+id/discipline_list_title"
         style="@style/textLarge"
         android:layout_width="0dp"
         android:layout_height="68dp"
@@ -31,7 +31,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/reg_title">
+        app:layout_constraintTop_toBottomOf="@+id/discipline_list_title">
 
         <LinearLayout
             android:id="@+id/linearLayout"
